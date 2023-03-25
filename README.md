@@ -9,7 +9,8 @@ dotnet new blazorserver -o BlazingPizza --no-https true -f net6.0
 
 - Start the Blazor App:
 
-```dotnet watch
+```
+dotnet watch
 ```
 
 # Pizza Page
