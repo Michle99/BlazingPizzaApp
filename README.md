@@ -31,3 +31,8 @@ Blazor includes several ways to share information between components. You can us
 
 [Learn how to share data between blazor components](https://learn.microsoft.com/en-us/training/modules/interact-with-data-blazor-web-apps/6-share-data-in-blazor-applications)
 
+
+# Bind controls to data in Blazor applications
+
+The Blazing Pizza app needs to update the interface when customers amend pizzas and add them to their orders. Blazor allows you to bind HTML controls to C# properties to update when their values change.
+
