@@ -4,26 +4,7 @@
 @using BlazingPizza
 @inject OrderState OrderState
 
-
-<div class="top-bar">
-    <a class="logo" href="">
-        <img src="img/logo.svg" />
-    </a>
-
-    <a href="" class="nav-tab active" >
-        <img src="img/pizza-slice.svg" />
-        <div>Get Pizza</div>
-    </a>
-
-    <a href="myorders" class="nav-tab" >
-        <img src="img/bike.svg" />
-        <div>My orders</div>
-    </a>
-
-</div>
-
-<div style="height:590px;overflow-y:scroll" class="main">
-  <h1>Blazing Pizzas</h1>
+<div style="height:536px;overflow-y:scroll" class="main">
   <ul class="pizza-cards">
     @if (specials != null)
     {
