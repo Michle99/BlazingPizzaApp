@@ -14,7 +14,8 @@ dotnet watch
 ```
 
 # Pizza Page
-![pizza page image](pizza.png)
+![blazingpizza](https://user-images.githubusercontent.com/63488970/227808256-e06e2f8b-3732-473c-a183-2e1327177373.gif)
+
 
 # Access data from a Blazor component
 Engaging websites need to display dynamic content that might change all the time. Obtaining data from a dynamic source, such as a database or web service, is a fundamental technique in web development.
